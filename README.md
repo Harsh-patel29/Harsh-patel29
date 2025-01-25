@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harsh
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Backend Development and App Development
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on open source projects , JavaScript Frameworks or anything related to MERN 
 - 📫 How to reach me @harshpatel290703@gmail.com , https://www.linkedin.com/in/harsh-patel-715b13304/
