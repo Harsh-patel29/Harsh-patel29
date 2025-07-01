@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Harsh
-- 👀 I’m interested in Backend Development and App Development
-- 🌱 I’m currently learning MERN Stack 
-- 💞️ I’m looking to collaborate on open source projects , JavaScript Frameworks or anything related to MERN 
-- 📫 How to reach me @harshpatel290703@gmail.com , https://www.linkedin.com/in/harsh-patel-715b13304/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to learn new Programming Language and you can see from where do i learn it at https://github.com/harsh29patel
+-  Hi, I’m @Harsh-patel29
+-  I’m interested in Backend Development and AI/ML.
+-  I’m currently learning AI/ML.
+-  I have techonology enthusiast and keen interest in how techonology woks and building good web Applications.
+-  I enjoy building web Applications using React and building scalable backend  with MERN Stack.
+-  How to reach me @harshpatel290703@gmail.com , https://www.linkedin.com/in/harsh-patel03/
+
 
 <!---
 Harsh-patel29/Harsh-patel29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
